@@ -20,3 +20,10 @@ Degree: Bachelor of Technology - BTech
 Field of Study: Computer Science and Engineering (AI & ML)
 
 Dates Attended: 2025 – 2029
+
+
+STACK OVERFLOW PROFILE :
+
+The Stack Overflow Profile serves as a developer’s public reputation ledger and knowledge-sharing hub. Unlike GitHub, which focuses on project hosting, a Stack Overflow profile highlights a programmer’s ability to troubleshoot, document, and explain complex technical issues. By filling out the "About Me" section, a student specializing in AI and ML can establish themselves as an active member of the global developer community.
+
+For a B.Tech student at VIT Bhopal, this profile is essential for building "technical street cred." It showcases proficiency in specific languages like Python and frameworks like Flask, while also signaling a willingness to contribute to collaborative problem-solving. Over a four-year academic career, an optimized Stack Overflow profile tracks a student’s growth from a "question asker" to a "solution provider." This transition is vital for demonstrating the deep, practical understanding of algorithms and debugging required for professional roles in artificial intelligence and software engineering.
